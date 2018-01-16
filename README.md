@@ -7,9 +7,9 @@ Source create on 16.1.2018
 
 # What is new?
  + Custom Menu
- + 252 Flags of country
- + Field of View and Fullbright /Bind key 8 and 9
- + New finalkillcam with music / Only for Search & Destroy Gametype
- + New font in-game
+ + 252 Country Flags
+ + Field of View and Fullbright /bind key 8 and 9
+ + New FinalKillcam with music - Only for Search & Destroy Gametype
+ + New In-Game Font
  + GeoIP Location
- + KD Ration
+ + KD Ratio
